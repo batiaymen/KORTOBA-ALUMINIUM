@@ -1,2 +1,5 @@
 # KORTOBA-ALUMINIUM
-kortoba-stock-planner
+# kortoba-stock-planner
+streamlit
+pandas
+numpy
